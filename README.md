@@ -1,0 +1,1 @@
+This project is to demonstrate the ability to replicate a webpage using the Developer Tools. I will be using the Dev Tools in Firefox to identify the different elements of a webpage and copy them into my own page. Hopefully by doing this I will gain a better understanding of how elements get placed on a page and how they get styled and aligned.
